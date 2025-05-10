@@ -16,11 +16,6 @@ Your project is live at:
 
 **[https://vercel.com/ananyaa-ks-projects/v0-quantum-sec-chat-application](https://vercel.com/ananyaa-ks-projects/v0-quantum-sec-chat-application)**
 
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/m01a6LwDbOT](https://v0.dev/chat/projects/m01a6LwDbOT)**
 
 ## How It Works
 
