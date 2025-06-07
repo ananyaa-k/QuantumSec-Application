@@ -1,25 +1,55 @@
-# QuantumSec chat application
-
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/ananyaa-ks-projects/v0-quantum-sec-chat-application)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/m01a6LwDbOT)
-
-## Overview
-
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
-
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/ananyaa-ks-projects/v0-quantum-sec-chat-application](https://vercel.com/ananyaa-ks-projects/v0-quantum-sec-chat-application)**
+QuantumSec - Secure Messaging Platform
+Next-generation encrypted communication with quantum-resistant security
 
 
-## How It Works
+🌟 Features
+Military-grade encryption using post-quantum cryptographic algorithms
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+Zero-knowledge architecture - we never have access to your data
+
+Self-destructing messages with configurable expiration
+
+Decentralized identity using blockchain-based authentication
+
+Cross-platform - available on Web, iOS, Android, and Desktop
+
+🚀 Quick Start
+Prerequisites
+Node.js 18+
+
+npm 9+ or yarn
+
+Installation
+bash
+git clone https://github.com/yourusername/quantumsec.git
+cd quantumsec
+npm install
+npm run dev
+Production Build
+bash
+npm run build
+npm start
+🔧 Configuration
+Environment variables required:
+
+env
+QUANTUMSEC_API_KEY=your_api_key
+ENCRYPTION_MASTER_KEY=your_encryption_key
+DATABASE_URL=postgres://user:pass@host:port/db
+📚 Documentation
+API Reference
+
+Security Whitepaper
+
+Architecture Overview
+
+🤝 Contributing
+We welcome contributions! Please see our Contribution Guidelines.
+
+⚠️ Security
+Found a vulnerability? Please report it responsibly to security@quantumsec.example.com.
+
+📜 License
+MIT © 2023 QuantumSec Team
+
+Join our community on Discord
